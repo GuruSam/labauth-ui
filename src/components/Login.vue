@@ -9,7 +9,7 @@
                 <span class="login100-form-title p-t-27">
                     Лабиринт
                 </span>
-              <span class="login100-form-subtitle p-b-34">авторизация через thesims.cc</span>
+              <span class="login100-form-subtitle p-b-34">единый сервис авторизации</span>
 
                 <div class="wrap-input100 validate-input" data-validate="Необходимо заполнить">
                     <input v-model="username" class="input100" type="text" placeholder="Логин" required>
